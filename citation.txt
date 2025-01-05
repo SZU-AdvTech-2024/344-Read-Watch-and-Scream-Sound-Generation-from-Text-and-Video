@@ -1,0 +1,6 @@
+@article{REPO344,
+    author = "Jeong, Yujin and Kim, Yunji and Chun, Sanghyuk and Lee, Jiyoung",
+    journal = "arXiv preprint arXiv:2407.05551",
+    title = "{Read, watch and scream! sound generation from text and video}",
+    year = "2024"
+}
